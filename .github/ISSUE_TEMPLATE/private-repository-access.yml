@@ -1,0 +1,31 @@
+name: Private repository access request
+description: Request access to one of the repositories listed on my profile.
+title: "[Access Request] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a **public issue**. Do not include passwords, tokens, private emails, or confidential details.
+        Submission does not grant access. Repository invitations are reviewed manually.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository name
+      description: Copy the repository name from the prefilled issue title.
+      placeholder: dahknesh232/repo
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why are you requesting access?
+      description: Describe your intended use or collaboration proposal without adding any confidential information.
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I understand this issue is public, and access is not automatic. If access is denied, please do not spam multiple requests.
+          required: true
