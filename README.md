@@ -3,11 +3,11 @@
 <!-- START -->
 ## Repository Activity
 
-**Repositories analyzed:** 64 (7 public, 57 private) 
+**Repositories analyzed:** 64 (7 public, 57 private) · **Distinct repository commits:** 3,734
 
-> 🔒 denotes a private repository. Use the Request access link to submit a public GitHub Issue to request access.
+> 🔒 denotes a private repository. Names and links are public, but GitHub restricts repository access to authorized users. Use the Request access link to submit a public GitHub Issue; submitting does not grant repository access.
 
-### Recently Touched
+### Recently Touched 🕒
 
 | Repository | Latest push (UTC) |
 |---|---|
@@ -22,7 +22,7 @@
 | [ce-io 🔒](https://github.com/dahknesh232/ce-io) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fce-io)) | 2026-10-03 |
 | [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | 2026-09-30 |
 
-### Favorite Repos
+### Favorite Repos ⭐
 
 | Repository | Git commits (all branches/tags) |
 |---|---:|
@@ -37,59 +37,31 @@
 | [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | 175 |
 | [mbzcli 🔒](https://github.com/dahknesh232/mbzcli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmbzcli)) | 131 |
 
-### Codebases I Play In
+### Milestones 🎯
 
-| Language | Codebases | Share |
-|---|---:|---:|
-| Shell | 19 | 15.08% |
-| Python | 16 | 12.70% |
-| JavaScript | 13 | 10.32% |
-| HTML | 11 | 8.73% |
-| CSS | 11 | 8.73% |
-| Dockerfile | 10 | 7.94% |
-| C | 4 | 3.17% |
-| Vue | 4 | 3.17% |
-| Makefile | 3 | 2.38% |
-| Jinja | 3 | 2.38% |
-| C# | 2 | 1.59% |
-| PHP | 2 | 1.59% |
-| PLpgSQL | 2 | 1.59% |
-| CMake | 2 | 1.59% |
-| PowerShell | 2 | 1.59% |
-| Roff | 2 | 1.59% |
-| EJS | 2 | 1.59% |
-| HCL | 2 | 1.59% |
-| Smarty | 1 | 0.79% |
-| SCSS | 1 | 0.79% |
-| Go | 1 | 0.79% |
-| Ruby | 1 | 0.79% |
-| TypeScript | 1 | 0.79% |
-| Brightscript | 1 | 0.79% |
-| Go Template | 1 | 0.79% |
-| Perl | 1 | 0.79% |
-| Pascal | 1 | 0.79% |
-| UnrealScript | 1 | 0.79% |
-| C++ | 1 | 0.79% |
-| Assembly | 1 | 0.79% |
-| M4 | 1 | 0.79% |
-| Yacc | 1 | 0.79% |
-| Lex | 1 | 0.79% |
-| Awk | 1 | 0.79% |
+#### Current
 
-### InfoSec Domains
+| Repository | Item | Date (UTC) |
+|---|---|---|
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [M3 - Operational Readiness](https://github.com/dahknesh232/ivr/milestone/12) | 2026-10-10 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.9.x — Project Supervisor](https://github.com/dahknesh232/agentic/milestone/4) | 2026-09-27 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.8.x — Persistent Project State](https://github.com/dahknesh232/agentic/milestone/3) | 2026-09-26 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v1.0.0 — Autonomous Workflow](https://github.com/dahknesh232/agentic/milestone/16) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.20.x — Quiescence and Git0 Lockdown](https://github.com/dahknesh232/agentic/milestone/15) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.19.x — Human Status and Observability](https://github.com/dahknesh232/agentic/milestone/14) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.18.x — Convergence and Final Audit](https://github.com/dahknesh232/agentic/milestone/13) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.17.x — Independent Reassessment](https://github.com/dahknesh232/agentic/milestone/12) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.16.x — Loop and Stagnation Detection](https://github.com/dahknesh232/agentic/milestone/11) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.15.x — Failure Recovery and Leases](https://github.com/dahknesh232/agentic/milestone/10) | 2026-09-25 |
 
-| Domain | Matching repositories |
-|---|---|
-| Network Security | [mcs2 🔒](https://github.com/dahknesh232/mcs2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs2)), [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
-| Application Security | — |
-| Identity & Access Management | [OHC-OIDCPyCli 🔒](https://github.com/dahknesh232/OHC-OIDCPyCli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC-OIDCPyCli)), [homelab2 🔒](https://github.com/dahknesh232/homelab2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab2)), [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)), [testapps](https://github.com/dahknesh232/testapps) |
-| Cloud & Container Security | [BuildK8s 🔒](https://github.com/dahknesh232/BuildK8s) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FBuildK8s)), [OHC 🔒](https://github.com/dahknesh232/OHC) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC)), [ansible-testing](https://github.com/dahknesh232/ansible-testing), [cdnwork 🔒](https://github.com/dahknesh232/cdnwork) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fcdnwork)), [homelab 🔒](https://github.com/dahknesh232/homelab) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab)), [homelab2 🔒](https://github.com/dahknesh232/homelab2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab2)), [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)), [mcs 🔒](https://github.com/dahknesh232/mcs) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs)), [mcs2 🔒](https://github.com/dahknesh232/mcs2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs2)), [testapps](https://github.com/dahknesh232/testapps), [tfans 🔒](https://github.com/dahknesh232/tfans) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Ftfans)) |
-| Offensive Security | [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
-| Defensive Security & Detection | [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
-| Cryptography & Secrets | [OHC-OIDCPyCli 🔒](https://github.com/dahknesh232/OHC-OIDCPyCli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC-OIDCPyCli)), [bs216 🔒](https://github.com/dahknesh232/bs216) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fbs216)), [testapps](https://github.com/dahknesh232/testapps), [tfans 🔒](https://github.com/dahknesh232/tfans) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Ftfans)), [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
-| Forensics & Malware Analysis | [lists 🔒](https://github.com/dahknesh232/lists) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Flists)) |
+#### Recently Closed
 
-### LLM & Agentic AI Engineering
+| Repository | Item | Date (UTC) |
+|---|---|---|
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [v0.7.x — Worker Review Correctness](https://github.com/dahknesh232/agentic/milestone/2) | 2026-09-25 |
+
+
+### LLM & Agentic AI Engineering 🤖
 
 | Domain | Matching repositories |
 |---|---|
@@ -104,7 +76,7 @@
 
 _AI domains are inferred from metadata and tracked paths; matching is heuristic._
 
-### IVR & Conversational Voice Engineering
+### IVR & Conversational Voice Engineering 📞
 
 | Domain | Matching repositories |
 |---|---|
@@ -119,10 +91,121 @@ _AI domains are inferred from metadata and tracked paths; matching is heuristic.
 
 _IVR domains are inferred from repository metadata and tracked paths; matching is heuristic._
 
+### Issues 📋
+
+#### Current
+
+| Repository | Item | Date (UTC) |
+|---|---|---|
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[EPIC\] Portal web phase 4 hardening and admin surface completion](https://github.com/dahknesh232/ivr/issues/88) | 2026-10-10 |
+| [storyboard-testing 🔒](https://github.com/dahknesh232/storyboard-testing) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fstoryboard-testing)) | [\[Storyboard\] Design](https://github.com/dahknesh232/storyboard-testing/issues/4) | 2026-05-27 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[TASK\] Convert portal-web route modules to lazy-loaded dynamic imports](https://github.com/dahknesh232/ivr/issues/90) | 2026-04-02 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[TASK\] Add reusable skeleton loading primitives for portal-web surfaces](https://github.com/dahknesh232/ivr/issues/91) | 2026-04-02 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[FEATURE\] Add dedicated admin route namespace and role-gated admin layout](https://github.com/dahknesh232/ivr/issues/92) | 2026-04-02 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[FEATURE\] Add portal-web settings and user preferences surface](https://github.com/dahknesh232/ivr/issues/93) | 2026-04-02 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[FEATURE\] Add portal-web module registry management workflows](https://github.com/dahknesh232/ivr/issues/94) | 2026-04-02 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[TASK\] Define shared optimistic mutation and rollback pattern for portal-web](https://github.com/dahknesh232/ivr/issues/95) | 2026-04-02 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[INFRA\] Add portal-web accessibility audit workflow and CI checks](https://github.com/dahknesh232/ivr/issues/96) | 2026-04-02 |
+
+#### Recently Closed
+
+| Repository | Item | Date (UTC) |
+|---|---|---|
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[BUG\] 500 Internal Server Error on New Seed Document Revision](https://github.com/dahknesh232/ivr/issues/99) | 2026-10-10 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [\[INFRA\] Add portal-web automated test harness and CI validation](https://github.com/dahknesh232/ivr/issues/89) | 2026-10-10 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 4.1: define deterministic Supervisor readiness](https://github.com/dahknesh232/agentic/issues/40) | 2026-09-27 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 3.4: Record task provenance](https://github.com/dahknesh232/agentic/issues/38) | 2026-09-26 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 3.3: Add durable task states](https://github.com/dahknesh232/agentic/issues/32) | 2026-09-26 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 3.2: Separate requirements from tasks](https://github.com/dahknesh232/agentic/issues/30) | 2026-09-26 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 3.1: Introduce durable Project state](https://github.com/dahknesh232/agentic/issues/28) | 2026-09-26 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 2.4: declare Worker transaction primitive stable](https://github.com/dahknesh232/agentic/issues/26) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 2.3: validate Worker review decisions](https://github.com/dahknesh232/agentic/issues/24) | 2026-09-25 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Phase 2.2: verify Worker review safeguards](https://github.com/dahknesh232/agentic/issues/22) | 2026-09-25 |
+
+
+### Pull Requests 🔀
+
+#### Current
+
+| Repository | Item | Date (UTC) |
+|---|---|---|
+| [StoryBoard 🔒](https://github.com/dahknesh232/StoryBoard) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FStoryBoard)) | [Bump the pip group across 1 directory with 5 updates](https://github.com/dahknesh232/StoryBoard/pull/9) | 2026-10-10 |
+| [ce-io 🔒](https://github.com/dahknesh232/ce-io) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fce-io)) | [Remove makefiles](https://github.com/dahknesh232/ce-io/pull/1) | 2026-10-03 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Corrective 0.9.0a-19-8: Preserve Linux and Git evidence contracts](https://github.com/dahknesh232/agentic/pull/42) | 2026-09-30 |
+
+#### Recently Closed
+
+| Repository | Item | Date (UTC) |
+|---|---|---|
+| [tfans 🔒](https://github.com/dahknesh232/tfans) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Ftfans)) | [Fix runner bootstrap, Terraform layout, and Vault LXC startup](https://github.com/dahknesh232/tfans/pull/1) | 2026-10-12 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [feature/88-epic-portal-web-phase-4](https://github.com/dahknesh232/ivr/pull/97) | 2026-10-10 |
+| [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) | [feature/89-add-portal-web-automated-test](https://github.com/dahknesh232/ivr/pull/98) | 2026-10-10 |
+| [vue 🔒](https://github.com/dahknesh232/vue) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fvue)) | [Bump the npm_and_yarn group across 1 directory with 2 updates](https://github.com/dahknesh232/vue/pull/3) | 2026-10-10 |
+| [vue 🔒](https://github.com/dahknesh232/vue) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fvue)) | [Bump rollup from 4.16.1 to 4.64.5](https://github.com/dahknesh232/vue/pull/2) | 2026-10-10 |
+| [vue 🔒](https://github.com/dahknesh232/vue) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fvue)) | [Bump the npm_and_yarn group across 1 directory with 15 updates](https://github.com/dahknesh232/vue/pull/1) | 2026-10-10 |
+| [StoryBoard 🔒](https://github.com/dahknesh232/StoryBoard) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FStoryBoard)) | [Bump the pip group across 1 directory with 4 updates](https://github.com/dahknesh232/StoryBoard/pull/8) | 2026-10-10 |
+| [StoryBoard 🔒](https://github.com/dahknesh232/StoryBoard) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FStoryBoard)) | [Bump starlette from 1.0.0 to 1.0.1 in the pip group across 1 directory](https://github.com/dahknesh232/StoryBoard/pull/7) | 2026-10-10 |
+| [dev 🔒](https://github.com/dahknesh232/dev) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fdev)) | [Bump the bundler group across 1 directory with 18 updates](https://github.com/dahknesh232/dev/pull/2) | 2026-10-10 |
+| [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) | [Scope required Git evidence by repository](https://github.com/dahknesh232/agentic/pull/2) | 2026-09-27 |
+
+
+### InfoSec Domains 🛡️
+
+| Domain | Matching repositories |
+|---|---|
+| Network Security | [mcs2 🔒](https://github.com/dahknesh232/mcs2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs2)), [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
+| Application Security | — |
+| Identity & Access Management | [OHC-OIDCPyCli 🔒](https://github.com/dahknesh232/OHC-OIDCPyCli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC-OIDCPyCli)), [homelab2 🔒](https://github.com/dahknesh232/homelab2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab2)), [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)), [testapps](https://github.com/dahknesh232/testapps) |
+| Cloud & Container Security | [BuildK8s 🔒](https://github.com/dahknesh232/BuildK8s) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FBuildK8s)), [OHC 🔒](https://github.com/dahknesh232/OHC) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC)), [ansible-testing](https://github.com/dahknesh232/ansible-testing), [cdnwork 🔒](https://github.com/dahknesh232/cdnwork) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fcdnwork)), [homelab 🔒](https://github.com/dahknesh232/homelab) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab)), [homelab2 🔒](https://github.com/dahknesh232/homelab2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab2)), [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)), [mcs 🔒](https://github.com/dahknesh232/mcs) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs)), [mcs2 🔒](https://github.com/dahknesh232/mcs2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs2)), [testapps](https://github.com/dahknesh232/testapps), [tfans 🔒](https://github.com/dahknesh232/tfans) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Ftfans)) |
+| Offensive Security | [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
+| Defensive Security & Detection | [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
+| Cryptography & Secrets | [OHC-OIDCPyCli 🔒](https://github.com/dahknesh232/OHC-OIDCPyCli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC-OIDCPyCli)), [bs216 🔒](https://github.com/dahknesh232/bs216) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fbs216)), [testapps](https://github.com/dahknesh232/testapps), [tfans 🔒](https://github.com/dahknesh232/tfans) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Ftfans)), [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
+| Forensics & Malware Analysis | [lists 🔒](https://github.com/dahknesh232/lists) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Flists)) |
+
 _Domains use configurable keyword signals in repository metadata and tracked paths; they are heuristic, not a security assessment._
 
-### Other PlayGrounds
+### Codebases I Play In 💻
 
+| Language | Codebases | Share |
+|---|---:|---:|
+| 🐚 Shell | 19 | 15.08% |
+| 🐍 Python | 16 | 12.70% |
+| 🌐 JavaScript | 13 | 10.32% |
+| 🌐 HTML | 11 | 8.73% |
+| 🎨 CSS | 11 | 8.73% |
+| 🐳 Dockerfile | 10 | 7.94% |
+| 💻 Vue | 4 | 3.17% |
+| ⚙️ C | 4 | 3.17% |
+| 💻 Makefile | 3 | 2.38% |
+| 💻 Jinja | 3 | 2.38% |
+| ⚙️ C# | 2 | 1.59% |
+| 🐘 PHP | 2 | 1.59% |
+| 💻 PLpgSQL | 2 | 1.59% |
+| 💻 CMake | 2 | 1.59% |
+| 🐚 PowerShell | 2 | 1.59% |
+| 💻 Roff | 2 | 1.59% |
+| 💻 EJS | 2 | 1.59% |
+| 🏗️ HCL | 2 | 1.59% |
+| 💻 Smarty | 1 | 0.79% |
+| 🎨 SCSS | 1 | 0.79% |
+| 🐹 Go | 1 | 0.79% |
+| 💎 Ruby | 1 | 0.79% |
+| 🌐 TypeScript | 1 | 0.79% |
+| 💻 Brightscript | 1 | 0.79% |
+| 💻 Go Template | 1 | 0.79% |
+| 💻 Perl | 1 | 0.79% |
+| 💻 Pascal | 1 | 0.79% |
+| 💻 UnrealScript | 1 | 0.79% |
+| ⚙️ C++ | 1 | 0.79% |
+| 💻 Assembly | 1 | 0.79% |
+| 💻 M4 | 1 | 0.79% |
+| 💻 Yacc | 1 | 0.79% |
+| 💻 Lex | 1 | 0.79% |
+| 💻 Awk | 1 | 0.79% |
+
+_Codebases counts repositories containing each language (one per repository). Share is the percentage of all repository–language occurrences, so the shares total approximately 100%._
+
+### Other PlayGrounds 🧪
 _Repositories that match no InfoSec, LLM/AI, or IVR/voice engineering domain._
 
 | Repository | Git commits | Last push (UTC) |
@@ -150,9 +233,9 @@ _Repositories that match no InfoSec, LLM/AI, or IVR/voice engineering domain._
 | [certusservicetest 🔒](https://github.com/dahknesh232/certusservicetest) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fcertusservicetest)) | 5 | 2021-11-14 |
 | [micropicostuff 🔒](https://github.com/dahknesh232/micropicostuff) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmicropicostuff)) | 5 | 2026-02-28 |
 | [angular 🔒](https://github.com/dahknesh232/angular) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fangular)) | 4 | 2023-10-04 |
+| [dahknesh232](https://github.com/dahknesh232/dahknesh232) | 4 | 2026-10-14 |
 | [ehrtime 🔒](https://github.com/dahknesh232/ehrtime) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fehrtime)) | 4 | 2026-07-27 |
 | [bait-detector 🔒](https://github.com/dahknesh232/bait-detector) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fbait-detector)) | 3 | 2026-05-19 |
-| [dahknesh232](https://github.com/dahknesh232/dahknesh232) | 3 | 2026-10-14 |
 | [phss 🔒](https://github.com/dahknesh232/phss) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fphss)) | 3 | 2022-07-27 |
 | [pubscriptz 🔒](https://github.com/dahknesh232/pubscriptz) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fpubscriptz)) | 3 | 2023-10-11 |
 | [react 🔒](https://github.com/dahknesh232/react) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Freact)) | 3 | 2023-10-04 |
@@ -174,14 +257,10 @@ _Repositories that match no InfoSec, LLM/AI, or IVR/voice engineering domain._
 | [polyplugs 🔒](https://github.com/dahknesh232/polyplugs) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fpolyplugs)) | 0 | 2024-06-13 |
 | [web-assesments 🔒](https://github.com/dahknesh232/web-assesments) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fweb-assesments)) | 0 | 2025-02-28 |
 
-### Oldest Repo
-
-**[bs216 🔒](https://github.com/dahknesh232/bs216) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fbs216))** · created 2020-03-23
-
-### Forgotten Magic
+### Forgotten Magic 🕰️
 
 **[bs216 🔒](https://github.com/dahknesh232/bs216) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fbs216))** · earliest reachable commit 2020-03-23 (committer timestamp)
 
-_Commit counts include unique commits reachable from repository branches and tags._
+_Commit counts include unique commits reachable from repository branches and tags. Duplicate history across separate repositories is counted per repository._
 
 <!-- END -->
