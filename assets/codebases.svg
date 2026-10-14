@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1257" viewBox="0 0 810 1257" role="img" aria-labelledby="title desc">
+<title id="title">Codebases I Play In</title>
+<desc id="desc">Languages detected across included repositories, with repository counts and percentage shares.</desc>
+<rect width="100%" height="100%" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#24292f">
+<text x="24" y="35" font-size="20" font-weight="700">Codebases I Play In</text>
+<text x="24" y="59" font-size="13" fill="#57606a">34 languages · 126 repository-language occurrences · each repository counted once per language</text>
+<rect x="24" y="75" width="762" height="16" rx="6" fill="#eaeef2"/>
+<defs><clipPath id="languageStrip"><rect x="24" y="75" width="762" height="16" rx="6"/></clipPath></defs>
+<g clip-path="url(#languageStrip)">
+<rect x="24.000" y="75" width="114.910" height="16" fill="#89e051"/>
+<rect x="138.905" y="75" width="96.767" height="16" fill="#3572A5"/>
+<rect x="235.667" y="75" width="78.624" height="16" fill="#f1e05a"/>
+<rect x="314.286" y="75" width="66.529" height="16" fill="#563d7c"/>
+<rect x="380.810" y="75" width="66.529" height="16" fill="#e34c26"/>
+<rect x="447.333" y="75" width="60.481" height="16" fill="#384d54"/>
+<rect x="507.810" y="75" width="24.195" height="16" fill="#555555"/>
+<rect x="532.000" y="75" width="24.195" height="16" fill="#bf3989"/>
+<rect x="556.190" y="75" width="18.148" height="16" fill="#0969da"/>
+<rect x="574.333" y="75" width="18.148" height="16" fill="#9a6700"/>
+<rect x="592.476" y="75" width="12.100" height="16" fill="#178600"/>
+<rect x="604.571" y="75" width="12.100" height="16" fill="#2da44e"/>
+<rect x="616.667" y="75" width="12.100" height="16" fill="#bf3989"/>
+<rect x="628.762" y="75" width="12.100" height="16" fill="#844FBA"/>
+<rect x="640.857" y="75" width="12.100" height="16" fill="#4F5D95"/>
+<rect x="652.952" y="75" width="12.100" height="16" fill="#6f42c1"/>
+<rect x="665.048" y="75" width="12.100" height="16" fill="#012456"/>
+<rect x="677.143" y="75" width="12.100" height="16" fill="#bf3989"/>
+<rect x="689.238" y="75" width="6.053" height="16" fill="#0969da"/>
+<rect x="695.286" y="75" width="6.053" height="16" fill="#9a6700"/>
+<rect x="701.333" y="75" width="6.053" height="16" fill="#6f42c1"/>
+<rect x="707.381" y="75" width="6.053" height="16" fill="#f34b7d"/>
+<rect x="713.429" y="75" width="6.053" height="16" fill="#00ADD8"/>
+<rect x="719.476" y="75" width="6.053" height="16" fill="#0969da"/>
+<rect x="725.524" y="75" width="6.053" height="16" fill="#9a6700"/>
+<rect x="731.571" y="75" width="6.053" height="16" fill="#6f42c1"/>
+<rect x="737.619" y="75" width="6.053" height="16" fill="#2da44e"/>
+<rect x="743.667" y="75" width="6.053" height="16" fill="#bf3989"/>
+<rect x="749.714" y="75" width="6.053" height="16" fill="#701516"/>
+<rect x="755.762" y="75" width="6.053" height="16" fill="#9a6700"/>
+<rect x="761.810" y="75" width="6.053" height="16" fill="#6f42c1"/>
+<rect x="767.857" y="75" width="6.053" height="16" fill="#3178c6"/>
+<rect x="773.905" y="75" width="6.053" height="16" fill="#bf3989"/>
+<rect x="779.952" y="75" width="6.053" height="16" fill="#0969da"/>
+</g>
+<text x="24" y="119" font-size="11" fill="#57606a">LANGUAGE</text>
+<text x="630" y="119" font-size="11" fill="#57606a" text-anchor="end">REPOS</text>
+<text x="782" y="119" font-size="11" fill="#57606a" text-anchor="end">SHARE</text>
+<circle cx="30" cy="130" r="6" fill="#89e051"/>
+<text x="45" y="134" font-size="13">Shell</text>
+<rect x="323" y="122" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="122" width="260.00" height="11" rx="3" fill="#89e051"/>
+<text x="630" y="134" font-size="13" text-anchor="end">19</text>
+<text x="782" y="134" font-size="13" text-anchor="end">15.08%</text>
+<circle cx="30" cy="162" r="6" fill="#3572A5"/>
+<text x="45" y="166" font-size="13">Python</text>
+<rect x="323" y="154" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="154" width="218.95" height="11" rx="3" fill="#3572A5"/>
+<text x="630" y="166" font-size="13" text-anchor="end">16</text>
+<text x="782" y="166" font-size="13" text-anchor="end">12.70%</text>
+<circle cx="30" cy="194" r="6" fill="#f1e05a"/>
+<text x="45" y="198" font-size="13">JavaScript</text>
+<rect x="323" y="186" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="186" width="177.89" height="11" rx="3" fill="#f1e05a"/>
+<text x="630" y="198" font-size="13" text-anchor="end">13</text>
+<text x="782" y="198" font-size="13" text-anchor="end">10.32%</text>
+<circle cx="30" cy="226" r="6" fill="#563d7c"/>
+<text x="45" y="230" font-size="13">CSS</text>
+<rect x="323" y="218" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="218" width="150.53" height="11" rx="3" fill="#563d7c"/>
+<text x="630" y="230" font-size="13" text-anchor="end">11</text>
+<text x="782" y="230" font-size="13" text-anchor="end">8.73%</text>
+<circle cx="30" cy="258" r="6" fill="#e34c26"/>
+<text x="45" y="262" font-size="13">HTML</text>
+<rect x="323" y="250" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="250" width="150.53" height="11" rx="3" fill="#e34c26"/>
+<text x="630" y="262" font-size="13" text-anchor="end">11</text>
+<text x="782" y="262" font-size="13" text-anchor="end">8.73%</text>
+<circle cx="30" cy="290" r="6" fill="#384d54"/>
+<text x="45" y="294" font-size="13">Dockerfile</text>
+<rect x="323" y="282" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="282" width="136.84" height="11" rx="3" fill="#384d54"/>
+<text x="630" y="294" font-size="13" text-anchor="end">10</text>
+<text x="782" y="294" font-size="13" text-anchor="end">7.94%</text>
+<circle cx="30" cy="322" r="6" fill="#555555"/>
+<text x="45" y="326" font-size="13">C</text>
+<rect x="323" y="314" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="314" width="54.74" height="11" rx="3" fill="#555555"/>
+<text x="630" y="326" font-size="13" text-anchor="end">4</text>
+<text x="782" y="326" font-size="13" text-anchor="end">3.17%</text>
+<circle cx="30" cy="354" r="6" fill="#bf3989"/>
+<text x="45" y="358" font-size="13">Vue</text>
+<rect x="323" y="346" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="346" width="54.74" height="11" rx="3" fill="#bf3989"/>
+<text x="630" y="358" font-size="13" text-anchor="end">4</text>
+<text x="782" y="358" font-size="13" text-anchor="end">3.17%</text>
+<circle cx="30" cy="386" r="6" fill="#0969da"/>
+<text x="45" y="390" font-size="13">Jinja</text>
+<rect x="323" y="378" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="378" width="41.05" height="11" rx="3" fill="#0969da"/>
+<text x="630" y="390" font-size="13" text-anchor="end">3</text>
+<text x="782" y="390" font-size="13" text-anchor="end">2.38%</text>
+<circle cx="30" cy="418" r="6" fill="#9a6700"/>
+<text x="45" y="422" font-size="13">Makefile</text>
+<rect x="323" y="410" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="410" width="41.05" height="11" rx="3" fill="#9a6700"/>
+<text x="630" y="422" font-size="13" text-anchor="end">3</text>
+<text x="782" y="422" font-size="13" text-anchor="end">2.38%</text>
+<circle cx="30" cy="450" r="6" fill="#178600"/>
+<text x="45" y="454" font-size="13">C#</text>
+<rect x="323" y="442" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="442" width="27.37" height="11" rx="3" fill="#178600"/>
+<text x="630" y="454" font-size="13" text-anchor="end">2</text>
+<text x="782" y="454" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="482" r="6" fill="#2da44e"/>
+<text x="45" y="486" font-size="13">CMake</text>
+<rect x="323" y="474" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="474" width="27.37" height="11" rx="3" fill="#2da44e"/>
+<text x="630" y="486" font-size="13" text-anchor="end">2</text>
+<text x="782" y="486" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="514" r="6" fill="#bf3989"/>
+<text x="45" y="518" font-size="13">EJS</text>
+<rect x="323" y="506" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="506" width="27.37" height="11" rx="3" fill="#bf3989"/>
+<text x="630" y="518" font-size="13" text-anchor="end">2</text>
+<text x="782" y="518" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="546" r="6" fill="#844FBA"/>
+<text x="45" y="550" font-size="13">HCL</text>
+<rect x="323" y="538" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="538" width="27.37" height="11" rx="3" fill="#844FBA"/>
+<text x="630" y="550" font-size="13" text-anchor="end">2</text>
+<text x="782" y="550" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="578" r="6" fill="#4F5D95"/>
+<text x="45" y="582" font-size="13">PHP</text>
+<rect x="323" y="570" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="570" width="27.37" height="11" rx="3" fill="#4F5D95"/>
+<text x="630" y="582" font-size="13" text-anchor="end">2</text>
+<text x="782" y="582" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="610" r="6" fill="#6f42c1"/>
+<text x="45" y="614" font-size="13">PLpgSQL</text>
+<rect x="323" y="602" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="602" width="27.37" height="11" rx="3" fill="#6f42c1"/>
+<text x="630" y="614" font-size="13" text-anchor="end">2</text>
+<text x="782" y="614" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="642" r="6" fill="#012456"/>
+<text x="45" y="646" font-size="13">PowerShell</text>
+<rect x="323" y="634" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="634" width="27.37" height="11" rx="3" fill="#012456"/>
+<text x="630" y="646" font-size="13" text-anchor="end">2</text>
+<text x="782" y="646" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="674" r="6" fill="#bf3989"/>
+<text x="45" y="678" font-size="13">Roff</text>
+<rect x="323" y="666" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="666" width="27.37" height="11" rx="3" fill="#bf3989"/>
+<text x="630" y="678" font-size="13" text-anchor="end">2</text>
+<text x="782" y="678" font-size="13" text-anchor="end">1.59%</text>
+<circle cx="30" cy="706" r="6" fill="#0969da"/>
+<text x="45" y="710" font-size="13">Assembly</text>
+<rect x="323" y="698" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="698" width="13.68" height="11" rx="3" fill="#0969da"/>
+<text x="630" y="710" font-size="13" text-anchor="end">1</text>
+<text x="782" y="710" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="738" r="6" fill="#9a6700"/>
+<text x="45" y="742" font-size="13">Awk</text>
+<rect x="323" y="730" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="730" width="13.68" height="11" rx="3" fill="#9a6700"/>
+<text x="630" y="742" font-size="13" text-anchor="end">1</text>
+<text x="782" y="742" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="770" r="6" fill="#6f42c1"/>
+<text x="45" y="774" font-size="13">Brightscript</text>
+<rect x="323" y="762" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="762" width="13.68" height="11" rx="3" fill="#6f42c1"/>
+<text x="630" y="774" font-size="13" text-anchor="end">1</text>
+<text x="782" y="774" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="802" r="6" fill="#f34b7d"/>
+<text x="45" y="806" font-size="13">C++</text>
+<rect x="323" y="794" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="794" width="13.68" height="11" rx="3" fill="#f34b7d"/>
+<text x="630" y="806" font-size="13" text-anchor="end">1</text>
+<text x="782" y="806" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="834" r="6" fill="#00ADD8"/>
+<text x="45" y="838" font-size="13">Go</text>
+<rect x="323" y="826" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="826" width="13.68" height="11" rx="3" fill="#00ADD8"/>
+<text x="630" y="838" font-size="13" text-anchor="end">1</text>
+<text x="782" y="838" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="866" r="6" fill="#0969da"/>
+<text x="45" y="870" font-size="13">Go Template</text>
+<rect x="323" y="858" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="858" width="13.68" height="11" rx="3" fill="#0969da"/>
+<text x="630" y="870" font-size="13" text-anchor="end">1</text>
+<text x="782" y="870" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="898" r="6" fill="#9a6700"/>
+<text x="45" y="902" font-size="13">Lex</text>
+<rect x="323" y="890" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="890" width="13.68" height="11" rx="3" fill="#9a6700"/>
+<text x="630" y="902" font-size="13" text-anchor="end">1</text>
+<text x="782" y="902" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="930" r="6" fill="#6f42c1"/>
+<text x="45" y="934" font-size="13">M4</text>
+<rect x="323" y="922" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="922" width="13.68" height="11" rx="3" fill="#6f42c1"/>
+<text x="630" y="934" font-size="13" text-anchor="end">1</text>
+<text x="782" y="934" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="962" r="6" fill="#2da44e"/>
+<text x="45" y="966" font-size="13">Pascal</text>
+<rect x="323" y="954" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="954" width="13.68" height="11" rx="3" fill="#2da44e"/>
+<text x="630" y="966" font-size="13" text-anchor="end">1</text>
+<text x="782" y="966" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="994" r="6" fill="#bf3989"/>
+<text x="45" y="998" font-size="13">Perl</text>
+<rect x="323" y="986" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="986" width="13.68" height="11" rx="3" fill="#bf3989"/>
+<text x="630" y="998" font-size="13" text-anchor="end">1</text>
+<text x="782" y="998" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="1026" r="6" fill="#701516"/>
+<text x="45" y="1030" font-size="13">Ruby</text>
+<rect x="323" y="1018" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="1018" width="13.68" height="11" rx="3" fill="#701516"/>
+<text x="630" y="1030" font-size="13" text-anchor="end">1</text>
+<text x="782" y="1030" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="1058" r="6" fill="#9a6700"/>
+<text x="45" y="1062" font-size="13">SCSS</text>
+<rect x="323" y="1050" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="1050" width="13.68" height="11" rx="3" fill="#9a6700"/>
+<text x="630" y="1062" font-size="13" text-anchor="end">1</text>
+<text x="782" y="1062" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="1090" r="6" fill="#6f42c1"/>
+<text x="45" y="1094" font-size="13">Smarty</text>
+<rect x="323" y="1082" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="1082" width="13.68" height="11" rx="3" fill="#6f42c1"/>
+<text x="630" y="1094" font-size="13" text-anchor="end">1</text>
+<text x="782" y="1094" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="1122" r="6" fill="#3178c6"/>
+<text x="45" y="1126" font-size="13">TypeScript</text>
+<rect x="323" y="1114" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="1114" width="13.68" height="11" rx="3" fill="#3178c6"/>
+<text x="630" y="1126" font-size="13" text-anchor="end">1</text>
+<text x="782" y="1126" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="1154" r="6" fill="#bf3989"/>
+<text x="45" y="1158" font-size="13">UnrealScript</text>
+<rect x="323" y="1146" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="1146" width="13.68" height="11" rx="3" fill="#bf3989"/>
+<text x="630" y="1158" font-size="13" text-anchor="end">1</text>
+<text x="782" y="1158" font-size="13" text-anchor="end">0.79%</text>
+<circle cx="30" cy="1186" r="6" fill="#0969da"/>
+<text x="45" y="1190" font-size="13">Yacc</text>
+<rect x="323" y="1178" width="260" height="11" rx="3" fill="#eaeef2"/>
+<rect x="323" y="1178" width="13.68" height="11" rx="3" fill="#0969da"/>
+<text x="630" y="1190" font-size="13" text-anchor="end">1</text>
+<text x="782" y="1190" font-size="13" text-anchor="end">0.79%</text>
+</g>
+</svg>

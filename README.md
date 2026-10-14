@@ -3,7 +3,7 @@
 <!-- START -->
 ## Repository Activity
 
-**Repositories analyzed:** 64 (7 public, 57 private) · **Distinct repository commits:** 3,734
+**Repositories analyzed:** 64 (7 public, 57 private) · **Distinct repository commits:** 3,736
 
 > 🔒 denotes a private repository. Names and links are public, but GitHub restricts repository access to authorized users. Use the Request access link to submit a public GitHub Issue; submitting does not grant repository access.
 
@@ -68,7 +68,7 @@
 | LLM Infrastructure | — |
 | Agentic AI | [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) |
 | LLM Orchestration | — |
-| AI Controllers & Workers | — |
+| AI Controllers & Workers | [agentic 🔒](https://github.com/dahknesh232/agentic) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fagentic)) |
 | RAG & Knowledge Systems | [OHC-OIDCPyCli 🔒](https://github.com/dahknesh232/OHC-OIDCPyCli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC-OIDCPyCli)) |
 | Prompt Engineering & Evaluation | — |
 | Model Integration | [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)) |
@@ -154,7 +154,7 @@ _IVR domains are inferred from repository metadata and tracked paths; matching i
 | Domain | Matching repositories |
 |---|---|
 | Network Security | [mcs2 🔒](https://github.com/dahknesh232/mcs2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs2)), [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
-| Application Security | — |
+| Application Security | [BuildK8s 🔒](https://github.com/dahknesh232/BuildK8s) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FBuildK8s)), [OHC 🔒](https://github.com/dahknesh232/OHC) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC)), [OHC-OIDCPyCli 🔒](https://github.com/dahknesh232/OHC-OIDCPyCli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC-OIDCPyCli)), [OHCPGDB 🔒](https://github.com/dahknesh232/OHCPGDB) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHCPGDB)), [cdnwork 🔒](https://github.com/dahknesh232/cdnwork) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fcdnwork)), [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)), [testapps](https://github.com/dahknesh232/testapps), [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
 | Identity & Access Management | [OHC-OIDCPyCli 🔒](https://github.com/dahknesh232/OHC-OIDCPyCli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC-OIDCPyCli)), [homelab2 🔒](https://github.com/dahknesh232/homelab2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab2)), [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)), [testapps](https://github.com/dahknesh232/testapps) |
 | Cloud & Container Security | [BuildK8s 🔒](https://github.com/dahknesh232/BuildK8s) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FBuildK8s)), [OHC 🔒](https://github.com/dahknesh232/OHC) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHC)), [ansible-testing](https://github.com/dahknesh232/ansible-testing), [cdnwork 🔒](https://github.com/dahknesh232/cdnwork) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fcdnwork)), [homelab 🔒](https://github.com/dahknesh232/homelab) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab)), [homelab2 🔒](https://github.com/dahknesh232/homelab2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fhomelab2)), [ivr 🔒](https://github.com/dahknesh232/ivr) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fivr)), [mcs 🔒](https://github.com/dahknesh232/mcs) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs)), [mcs2 🔒](https://github.com/dahknesh232/mcs2) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs2)), [testapps](https://github.com/dahknesh232/testapps), [tfans 🔒](https://github.com/dahknesh232/tfans) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Ftfans)) |
 | Offensive Security | [wrt-adtran 🔒](https://github.com/dahknesh232/wrt-adtran) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fwrt-adtran)) |
@@ -164,46 +164,19 @@ _IVR domains are inferred from repository metadata and tracked paths; matching i
 
 _Domains use configurable keyword signals in repository metadata and tracked paths; they are heuristic, not a security assessment._
 
+### GitHub Statistics 📊
+
+| Metric | Value |
+|---|---:|
+| 🍴 Forks received | 2 |
+| 📝 All-time repository commits | 3,736 |
+| 🔀 Lines of code changed | 14,271,348 |
+
 ### Codebases I Play In 💻
 
-| Language | Codebases | Share |
-|---|---:|---:|
-| 🐚 Shell | 19 | 15.08% |
-| 🐍 Python | 16 | 12.70% |
-| 🌐 JavaScript | 13 | 10.32% |
-| 🌐 HTML | 11 | 8.73% |
-| 🎨 CSS | 11 | 8.73% |
-| 🐳 Dockerfile | 10 | 7.94% |
-| 💻 Vue | 4 | 3.17% |
-| ⚙️ C | 4 | 3.17% |
-| 💻 Makefile | 3 | 2.38% |
-| 💻 Jinja | 3 | 2.38% |
-| ⚙️ C# | 2 | 1.59% |
-| 🐘 PHP | 2 | 1.59% |
-| 💻 PLpgSQL | 2 | 1.59% |
-| 💻 CMake | 2 | 1.59% |
-| 🐚 PowerShell | 2 | 1.59% |
-| 💻 Roff | 2 | 1.59% |
-| 💻 EJS | 2 | 1.59% |
-| 🏗️ HCL | 2 | 1.59% |
-| 💻 Smarty | 1 | 0.79% |
-| 🎨 SCSS | 1 | 0.79% |
-| 🐹 Go | 1 | 0.79% |
-| 💎 Ruby | 1 | 0.79% |
-| 🌐 TypeScript | 1 | 0.79% |
-| 💻 Brightscript | 1 | 0.79% |
-| 💻 Go Template | 1 | 0.79% |
-| 💻 Perl | 1 | 0.79% |
-| 💻 Pascal | 1 | 0.79% |
-| 💻 UnrealScript | 1 | 0.79% |
-| ⚙️ C++ | 1 | 0.79% |
-| 💻 Assembly | 1 | 0.79% |
-| 💻 M4 | 1 | 0.79% |
-| 💻 Yacc | 1 | 0.79% |
-| 💻 Lex | 1 | 0.79% |
-| 💻 Awk | 1 | 0.79% |
+![Codebases I Play In — language distribution, repository counts and shares](assets/codebases.svg)
 
-_Codebases counts repositories containing each language (one per repository). Share is the percentage of all repository–language occurrences, so the shares total approximately 100%._
+_Language shares count one occurrence per repository containing each language; not weighted by bytes. Forks received are summed from the included repositories. Commit totals and lines changed are repository-history metrics, not personal GitHub contribution-graph totals. Lines changed counts textual additions plus deletions (excluding binary files)._
 
 ### Other PlayGrounds 🧪
 _Repositories that match no InfoSec, LLM/AI, or IVR/voice engineering domain._
@@ -213,7 +186,6 @@ _Repositories that match no InfoSec, LLM/AI, or IVR/voice engineering domain._
 | [mbzcli 🔒](https://github.com/dahknesh232/mbzcli) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmbzcli)) | 131 | 2024-11-04 |
 | [madeachannel 🔒](https://github.com/dahknesh232/madeachannel) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmadeachannel)) | 90 | 2026-01-29 |
 | [mcs-velocity 🔒](https://github.com/dahknesh232/mcs-velocity) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmcs-velocity)) | 79 | 2025-04-13 |
-| [OHCPGDB 🔒](https://github.com/dahknesh232/OHCPGDB) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FOHCPGDB)) | 66 | 2024-07-27 |
 | [mbzbot 🔒](https://github.com/dahknesh232/mbzbot) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmbzbot)) | 65 | 2024-11-05 |
 | [gemgem-py 🔒](https://github.com/dahknesh232/gemgem-py) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fgemgem-py)) | 50 | 2026-09-23 |
 | [ML-Game 🔒](https://github.com/dahknesh232/ML-Game) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2FML-Game)) | 44 | 2024-06-09 |
@@ -231,9 +203,9 @@ _Repositories that match no InfoSec, LLM/AI, or IVR/voice engineering domain._
 | [androidstuff 🔒](https://github.com/dahknesh232/androidstuff) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fandroidstuff)) | 6 | 2023-10-11 |
 | [.testingimages 🔒](https://github.com/dahknesh232/.testingimages) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2F.testingimages)) | 5 | 2024-07-04 |
 | [certusservicetest 🔒](https://github.com/dahknesh232/certusservicetest) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fcertusservicetest)) | 5 | 2021-11-14 |
+| [dahknesh232](https://github.com/dahknesh232/dahknesh232) | 5 | 2026-10-14 |
 | [micropicostuff 🔒](https://github.com/dahknesh232/micropicostuff) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fmicropicostuff)) | 5 | 2026-02-28 |
 | [angular 🔒](https://github.com/dahknesh232/angular) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fangular)) | 4 | 2023-10-04 |
-| [dahknesh232](https://github.com/dahknesh232/dahknesh232) | 4 | 2026-10-14 |
 | [ehrtime 🔒](https://github.com/dahknesh232/ehrtime) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fehrtime)) | 4 | 2026-07-27 |
 | [bait-detector 🔒](https://github.com/dahknesh232/bait-detector) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fbait-detector)) | 3 | 2026-05-19 |
 | [phss 🔒](https://github.com/dahknesh232/phss) ([Request access](https://github.com/dahknesh232/dahknesh232/issues/new?template=private-repository-access.yml&title=%5BAccess%20Request%5D%20dahknesh232%2Fphss)) | 3 | 2022-07-27 |
